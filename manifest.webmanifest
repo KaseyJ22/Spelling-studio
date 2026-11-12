@@ -1,0 +1,9 @@
+{
+  "name": "Spelling Studio",
+  "short_name": "Spelling",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f7f5f2",
+  "theme_color": "#7c3aed",
+  "description": "Personalized phonics and spelling practice for Zoe and Talon"
+}
